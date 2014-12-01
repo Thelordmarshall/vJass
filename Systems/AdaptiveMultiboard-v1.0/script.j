@@ -1,5 +1,5 @@
-library AdaptiveMultiboard uses Table, TimerUtils, TeamReforce, MultiboardUtils, GradientText, Hero/*
-*********************************************************************************
+library AdaptiveMultiboard uses Table, TimerUtils, TeamReforce, MultiboardUtils, GradientText, Hero
+/**********************************************************************************
 *   AdaptiveMultiboard v1.0.0.1
 *   ___________________________
 *   by Thelordmarshall
